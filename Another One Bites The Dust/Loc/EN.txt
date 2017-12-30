@@ -1,0 +1,4 @@
+{
+    "menu_jukebox_another_one_bites_the_dust" : "Another One Bites The Dust",
+    "menu_jukebox_screen_another_one_bites_the_dust" : "Another One Bites The Dust"
+}
